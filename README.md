@@ -28,6 +28,7 @@ NLP----Subfield of AI concerned with interaction between computers and human lan
 
 
 4 steps to Recommending 
+
 1.Tokenization
 2.Stop word removal
 3.Vectorization
